@@ -9,10 +9,9 @@ The following projects are currently included:
 
 ###GoogleBookSearch
 
-Note that you need to install Goolge Books API using below Nuget Package
-    * PM> Install-Package Google.Apis.Books.v1 *
-
-Tutorials [here.](http://wp.me/paUXZ-TY)
+> Note that you need to install Goolge Books API using below Nuget Package
+> PM\> **Install-Package Google.Apis.Books.v1** 
+> Tutorials [here.](http://wp.me/paUXZ-TY)
 
 ```C#
 string isbn = "0071807993";
