@@ -1,9 +1,9 @@
 ###Introduction
-This code repository include lightweight C# source projects. Each project is desined to:
+This code repository include **lightweight** C# source projects. Each project is desined to:
 * Be self-contained and independeng
-* Fullfil single-purpose
-* Minimized
-* Read for Copy & Paste use
+* Fulfil single-purpose
+* Be minimized
+* Be ready for Copy & Paste 
 
 The following projects are currently included:
 
