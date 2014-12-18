@@ -1,12 +1,13 @@
-#Introduction
-This code repository answers many of the how-to questions by offering lightweight source projects. Each project is desined to be:
-* Self-contained
+###Introduction
+This code repository include lightweight C# source projects. Each project is desined to:
+* Be self-contained and independeng
+* Fullfil single-purpose
 * Minimized
-* Single-purpose
+* Read for Copy & Paste use
 
 The following projects are currently included:
 
-##GoogleBookSearch
+###GoogleBookSearch
 ```C#
 string isbn = "0071807993";
 var output = BookSearch.SearchISBN(isbn);
