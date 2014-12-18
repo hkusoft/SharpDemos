@@ -10,7 +10,7 @@ The following projects are currently included:
 ###GoogleBookSearch
 
 >Note that you need to install Goolge Books API using below Nuget Package<br>
->\tPM\> **Install-Package Google.Apis.Books.v1**<br>
+>        PM\> **Install-Package Google.Apis.Books.v1**<br>
 >Tutorials [here.](http://wp.me/paUXZ-TY)
 
 ```C#
