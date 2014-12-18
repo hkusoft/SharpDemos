@@ -16,5 +16,6 @@ Console.WriteLine("Book Name: \t" + result.VolumeInfo.Title);
 //result.VolumeInfo.Authors.FirstOrDefault();
 //result.VolumeInfo.Publisher;
 ```
-Tutorials [here](http://xinyustudio.wordpress.com/2014/12/18/google-book-search-in-c-a-step-by-step-walk-through-tutorial/)
+Tutorials [here.](http://xinyustudio.wordpress.com/2014/12/18/google-book-search-in-c-a-step-by-step-walk-through-tutorial/)
+
 ![GoogleBookSearch](http://xinyustudio.files.wordpress.com/2014/12/image3.png)
