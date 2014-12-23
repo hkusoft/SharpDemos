@@ -10,9 +10,7 @@ The following projects are currently included:
 --------------------------------------------------------------------------------
 ###GoogleSearch: Google Custom Search using C#
 
->Note that you need to install Goolge Custom Search API using below Nuget Package<br>
->        PM\> **Install-Package Google.Apis.Customsearch.v1**<br>
->Tutorials [here.]( http://wp.me/paUXZ-V9)
+Tutorials [here.]( http://wp.me/paUXZ-V9)
 
 ```C#
 string query = "The University of Hong Kong";
@@ -27,13 +25,14 @@ foreach (Result result in results)
 
 ![GoogleSearch](http://xinyustudio.files.wordpress.com/2014/12/image34.png)
 
+>Note that you need to install Goolge Custom Search API using below Nuget Package<br>
+>        PM\> **Install-Package Google.Apis.Customsearch.v1**<br>
+
 --------------------------------------------------------------------------------
 
 ###GoogleBookSearch
 
->Note that you need to install Goolge Books API using below Nuget Package<br>
->        PM\> **Install-Package Google.Apis.Books.v1**<br>
->Tutorials [here.](http://wp.me/paUXZ-TY)
+Tutorials [here.](http://wp.me/paUXZ-TY)
 
 ```C#
 string isbn = "0071807993";
@@ -46,4 +45,8 @@ Console.WriteLine("Book Name: \t" + result.VolumeInfo.Title);
 ```
 
 ![GoogleBookSearch](http://xinyustudio.files.wordpress.com/2014/12/image3.png)
+
+>Note that you need to install Goolge Books API using below Nuget Package<br>
+>        PM\> **Install-Package Google.Apis.Books.v1**<br>
+
 --------------------------------------------------------------------------------
