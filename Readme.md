@@ -50,3 +50,14 @@ Console.WriteLine("Book Name: \t" + result.VolumeInfo.Title);
 >        PM\> **Install-Package Google.Apis.Books.v1**<br>
 
 --------------------------------------------------------------------------------
+###BingSearch
+Tutorials [here.](https://xinyustudio.wordpress.com/2016/12/15/bing-search-in-c-a-step-by-step-walk-through-tutorial/)
+```C#
+List<SearchResult> result = BingWebSearcher.Search(keyword);
+//result.Name: the name of the search result
+//result.Link: the link of the search result
+
+![Bing Web Search in C#](https://xinyustudio.files.wordpress.com/2016/12/bingsearch.gif)
+--------------------------------------------------------------------------------
+
+
