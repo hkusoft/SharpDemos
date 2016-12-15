@@ -58,6 +58,8 @@ List<SearchResult> result = BingWebSearcher.Search(keyword);
 //result.Name: the name of the search result
 //result.Link: the link of the search result
 
+```
+
 ![Bing Web Search in C#] (https://xinyustudio.files.wordpress.com/2016/12/bingsearch.gif)
 
 --------------------------------------------------------------------------------
